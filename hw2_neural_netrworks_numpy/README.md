@@ -1,0 +1,1 @@
+To submit the homework, execute the code inside collect_submittion.ipynb and upload it to the blackboard.
